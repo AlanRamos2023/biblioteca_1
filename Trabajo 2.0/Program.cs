@@ -247,7 +247,7 @@ namespace Trabajo
             {
                 Console.Clear();
                 Console.WriteLine("--Buscar Libros--");
-                Console.WriteLine("1. por ID");
+                Console.WriteLine("1. por N°");
                 Console.WriteLine("2. por  Genero");
                 Console.WriteLine("3. por  Autor");
                 Console.WriteLine("4. Volver a Libros");
@@ -383,6 +383,7 @@ namespace Trabajo
         }
         static void BuscarLibro_Numero(MySqlConnection conn)
         {
+            Console.Clear();
                Console.Write("Ingrese el número del libro que desea buscar: ");
                int Numero_Libro;
 
@@ -397,7 +398,7 @@ namespace Trabajo
                 FROM libros l
                 JOIN Generos g ON l.Numero_Genero = g.Numero_Genero
                 JOIN Autor a ON l.Numero_Autor = a.Numero_Autor
-                WHERE l.numero = @bookNumber";
+                WHERE l.numero = @Numero_Libro";
 
                 MySqlCommand cmd = new MySqlCommand(query, conn);
                 cmd.Parameters.AddWithValue("@Numero_Libro", Numero_Libro);
@@ -613,6 +614,7 @@ namespace Trabajo
         }
         static void MenuActualizarUsuario()
         {
+            Console.Clear();
             Console.WriteLine("Ingrese el DNI del usuario a actualizar:");
             string dni = Console.ReadLine();
 
@@ -694,9 +696,9 @@ namespace Trabajo
         static void AgregarPrestamo()
         {
             Console.Clear();
-            Console.Write("Ingrese el ID del libro: ");
+            Console.Write("Ingrese el N° del libro: ");
             int libroId = int.Parse(Console.ReadLine());
-            Console.Write("Ingrese el ID del usuario: ");
+            Console.Write("Ingrese el N° del usuario: ");
             int usuarioId = int.Parse(Console.ReadLine());
 
             using (var connection = new MySqlConnection(connectionString))
