@@ -1,0 +1,40 @@
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\obj\Debug\Trabajo 2.0.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\obj\Debug\Trabajo 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\Trabajo 2.0.exe.config
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\Trabajo 2.0.exe
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\Trabajo 2.0.pdb
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\MySql.Data.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Buffers.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Memory.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\ZstdSharp.dll
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\Google.Protobuf.pdb
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\Google.Protobuf.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\MySql.Data.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Buffers.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Memory.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\obj\Debug\Trabajo .8FD03534.Up2Date
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\obj\Debug\Trabajo 2.0.exe
+C:\Users\Estudiante\source\repos\Trabajo 2.0\Trabajo 2.0\obj\Debug\Trabajo 2.0.pdb

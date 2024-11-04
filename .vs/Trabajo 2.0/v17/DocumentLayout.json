@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\source\\repos\\Trabajo 2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A916BDE-8DB3-4364-8E5E-49C81D15B6BA}|Trabajo 2.0\\Trabajo 2.0.csproj|c:\\users\\estudiante\\source\\repos\\trabajo 2.0\\trabajo 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A916BDE-8DB3-4364-8E5E-49C81D15B6BA}|Trabajo 2.0\\Trabajo 2.0.csproj|solutionrelative:trabajo 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Trabajo 2.0\\Trabajo 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "Trabajo 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Trabajo 2.0\\Trabajo 2.0\\Program.cs",
+              "RelativeToolTip": "Trabajo 2.0\\Program.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAHoEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:08:52.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
